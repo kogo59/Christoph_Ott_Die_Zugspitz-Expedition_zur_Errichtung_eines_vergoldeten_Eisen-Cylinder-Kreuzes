@@ -284,8 +284,8 @@ Die Mühe und Schwierigkeit des Bohrens war größer, als
 man erwartete. Der Stein zeigte sich sehr hart und, spröde,
 so daß der Bohrer mit jedem Streiche mehrere. Zoll in die
 Hohe hüpfte. Dreimännisch wurde gebohrt, Der Bohrer
-war für den Stangendurchmesser etwas zu klein, weshalb..
-nicht bloß im Loche selbst nachgeholfen, sondern. auch die
+war für den Stangendurchmesser etwas zu klein, weshalb
+nicht bloß im Loche selbst nachgeholfen, sondern auch die
 geschröpften Kanten der Eisenstange etwas zugehämmert werden
 mußten. Zum größten Leidwesen des Sporer zerbrach bei
 dieser Manipulation jene Steinplatte, welche ihm bei seinem
