@@ -1,4 +1,4 @@
-﻿# Die Zugspitz-Expedition zur Errichtung eines vergoldeten Eisen-Cylinder-Kreuzes. {epub:type=titlepage .unnumbered }
+﻿# Die Zugspitz-Expedition. {epub:type=titlepage .unnumbered }
 
 ::: { .fs-s .align-center }
 **Die**<br />
