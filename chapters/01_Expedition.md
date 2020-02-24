@@ -401,8 +401,6 @@ Zur Dämmerungszeit erreichte man wieder die Angerhütte
 und brachte die Nacht auf dieselbe Weise wie die
 vorhergehende, jedoch in festerem Schlafe, zu. Selbst dem
 Schlosser schien nun das Bett von Fichtennadeln gegen die
-
-[Datei: G:/wikipedia_Bilder/Alpingeschichte/Ott.Zugspitzexpedition.pdf]
 Vornacht eine weiche, süße Lagerstätte. Alles dankte Gott
 neuerdings, daß das Kreuz so glücklich aufgestellt wurde. —
 Nur ein einziges Mitglied der Expeditions-Gesellschaft
@@ -842,7 +840,7 @@ zu fallen
 |               In Bayerns nah'n und fernen Gauen.
 |               
 ::::
-:::: { .margin-left-xl  .w-20 .break-after}
+:::: { .wrap-20 .break-after}
 ![](Zugspitzkreuz_29.jpg "Zugspitzkreuz_29.jpg"){  }
 ::::
 
