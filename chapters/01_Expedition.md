@@ -436,7 +436,7 @@ Frühstück von den Andern bereitet wurde.
 Rüstig und munter, seinen Doppelstutzen auf dem Rücken
 und seinen Hund an der Seite stieg nun Baur den gähabschüssigen
 Berg mit den Uebrigen hinan ja trotz seines
-24z&nbsp;stündigen Marsches bei Tag und Nacht war er es, der
+24&nbsp;stündigen Marsches bei Tag und Nacht war er es, der
 über den Grat hinwegeilend als der Erste den Zugspitzgipfel
 erstieg.
 
