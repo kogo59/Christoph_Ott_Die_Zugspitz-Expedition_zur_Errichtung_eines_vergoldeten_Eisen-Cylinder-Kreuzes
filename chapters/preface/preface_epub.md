@@ -77,5 +77,5 @@ bei Christian Kaiser
 ::::
 
 :::: { .fs-xxs .align-center .break-after }
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />Gedruckt bei J. G. Weiß,  Universitäts-Buchdrucker in München.
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />Gedruckt bei J. G. Weiß,  Universitäts-Buchdrucker in München.<br /><br /><br /><br />
 ::::

@@ -103,8 +103,8 @@ schönes Wetter mehr zu erwarten seyn? So wurde einige
  die Ungeduld wuchs: da ertönte der Ruf des Führers: „Auf
  Träger, dem Zugspitz zu!“ und mit freudiger Geschäftigkeit
  machten sich. Alle über ihre Traglast her. Die ersten Träger,
- Partenkirchener , gingen um  9 Uhr Morgens  ab, allmälig
- folgten die andern, gegen 10 Uhr das übrige Begleitungspersonal,
+ Partenkirchener, gingen um  9&nbsp;Uhr Morgens  ab, allmälig
+ folgten die andern, gegen 10&nbsp;Uhr das übrige Begleitungspersonal,
  welches außerdem Leiter der Expedition, dem k.
  Forstwart Kiendl, und dem Verfertiger des Kreuzes, dem
  Schlosserssohne: Ludwig Kiesel von Schongau, aus acht
@@ -118,8 +118,8 @@ schönes Wetter mehr zu erwarten seyn? So wurde einige
  Beim  Reinthalerbauern angekommen, labte sich
  Alles. Die Bäuerin, nach freundlichem Gruße; versprach
  günstige Witterung und brachte einen tüchtigen Butterwecken
- und Käse herbei. Gegen 1 Uhr Mittags brach die Expeditions-Mannschaft,
- z. Z. 28 Köpfe stark, auf und gelangte,
+ und Käse herbei. Gegen 1&nbsp;Uhr Mittags brach die Expeditions-Mannschaft,
+ z. Z. 28&nbsp;Köpfe stark, auf und gelangte,
  dem Laufe der rauschenden Partnach folgend, an dem sogenannten
  blauen Gumpen vorüber, mit eintretender Dämmerung zur Angerhütte,
  dem Zielpunkte des heutigen Tages.
@@ -139,7 +139,7 @@ schönes Wetter mehr zu erwarten seyn? So wurde einige
  Partnach erquickte mit ihrem frischen Wasser. Der Träger
  Jakob Sporer,^[^0013]^ ein höchst simpler Bursche, machte wie
  immer mit seinen komisch-läppischen Manieren den Gegenstand
- der Unterhaltung. — Geschlafen ‘wurde wenig. Einigen in
+ der Unterhaltung. — Geschlafen wurde wenig. Einigen in
  der Hütte war das Bett (aus Fichtennadeln) zu war und
  der Raum zu beengt; Andere ließ die zweifelhafte Wittérunz
  — es regnete ein wenig — kein Auge zuthun. Um Mitternacht
@@ -664,7 +664,7 @@ fest und unerschütterlich zu stehen, und — wenn es gilt —
 zu fallen
 
 :::: { .fs-m .align-center .break-after }
-**für Gott, für König und Vaterland!**
+**für Gott, für König und Vaterland!**<br /><br />
 ::::
 
 :::
