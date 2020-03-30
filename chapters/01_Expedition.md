@@ -457,7 +457,7 @@ die Schneide fassend, urplötzlich auf der andern Seite gegen
 Ehrwald und die Thörlen hinabschaute. Dem Vordersten,
 der hier den Grat erreichte, entfuhr unwillkürlich ein Ausruf
 des Staunens und des Entsetzens; denn auch hier fiel jenseits
-der ganze Felsenkamm noch viel steiler ab , als diesseits,
+der ganze Felsenkamm noch viel steiler ab, als diesseits,
 ja beinahe senkrecht, und fürchterlich gähnte der Abgrund
 herauf.“
 
@@ -625,7 +625,7 @@ dem alle Zugspitzbesteiger der Umgegend beiwohnten.
 
 Auch den Herren Pfarrern von Ehrwald und Leutasch, so
 wie dem Herrn Curat von Leermos, als den der Zugspitze nächst
-gelegenen: Nachbaren in Tyrol , wurden zur Erflehung des göttlichen
+gelegenen: Nachbaren in Tyrol, wurden zur Erflehung des göttlichen
 Segens für dieses Unternehmen schon vor der Expeditionszeit
 Stipendien zur Lesung einer heiligen Messe übersendet und
 dieselben ersucht, auch ihre Parochianen^[^0022]^ von der

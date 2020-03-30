@@ -63,8 +63,8 @@ Mit sechs Skizzen-Zeichnungen.<br />
 :::: align-center
 ****
 ::::
-:::: { .wrap-50 }
-![](logo.jpg "logo.jpg"){ .align_center }
+:::: { .wrap-50 .align-center}
+![](logo.jpg "logo.jpg"){ .align-center }
 ::::
 
 :::: { .fs-m .align-center }

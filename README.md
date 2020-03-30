@@ -1,7 +1,7 @@
 # Die Zugspitz-Expedition zur Errichtung eines vergoldeten Eisen-Cylinder-Kreuzes.
 
 This is a git repository of the source files for the book
-"Die Zugspitz-Expedition zur Errichtung eines vergoldeten Eisen-Cylinder-Kreuzes uf dem höchsten westlichen Zugspitzgiebel  am 11. 12. und 15. August 1851"
+"Die Zugspitz-Expedition zur Errichtung eines vergoldeten Eisen-Cylinder-Kreuzes auf dem höchsten westlichen Zugspitzgiebel  am 11. 12. und 15. August 1851"
 
 Authors:
 
