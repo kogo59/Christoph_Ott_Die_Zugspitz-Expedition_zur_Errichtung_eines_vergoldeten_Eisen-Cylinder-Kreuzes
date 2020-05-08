@@ -19,7 +19,7 @@ before January 1, 1924.
 
 # Build
 * [Pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) => epub
-* [Calibre](https://calibre-ebook.com/) epub to azw3
+* [Calibre](https://calibre-ebook.com/) epub to azw3, mobi
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
