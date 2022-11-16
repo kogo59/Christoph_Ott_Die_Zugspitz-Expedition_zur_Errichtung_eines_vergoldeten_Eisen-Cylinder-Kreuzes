@@ -26,5 +26,3 @@ before January 1, 1924.
 # Sources
 Die Zugspitz-Expedition. [DAV](http://www.dav-bibliothek.de/webOPAC/Buecher/Ott.Zugspitzexpedition.pdf)
 
-# ePUB
-Die Zugspitz-Expedition. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=336340)
