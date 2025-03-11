@@ -982,9 +982,6 @@ Gedruckt bei J. G. Weiß, Universitätsbuchdrucker.
 ::::
 
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0001]: [*10,115 b. Fuß*:  10.115*0,291859206 m = 2.952,16 m]{.footnote}
 
 [^0002]: [*14 b. Fuß*:  14*0,291859206 m = 4,1 m]{.footnote}
