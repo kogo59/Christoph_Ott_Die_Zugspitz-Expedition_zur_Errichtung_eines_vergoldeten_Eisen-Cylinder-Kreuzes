@@ -9,7 +9,7 @@ Sailing bei Hohenschwangau, ja bis hin in das fernste Algäu
 ziert vielfach das Kreuz die Gipfel dieser  Gebirgshöhen.
 Mitten in diesem schönen Bergkranze aber hebt der Beherrscher
 derselben der erste Fürst  der bayerischen Gebirgswelt, der
-10,115  b. Fuß^[^0001]^ hohe Zugspitz, sein Haupt kahl und schmucklos  in
+10,115  b. Fuß<sup>[^0001]</sup> hohe Zugspitz, sein Haupt kahl und schmucklos  in
 die blauen Lüfte des Himmels empor, wartend, bis
 patriotisches Hochgefühl und muthvolle Entschlossenheit es
 über sich nehmen würden, auch sein Haupt würdevoll zu
@@ -40,9 +40,9 @@ Bauer und dem Goldarbeiter Xav. Sertl, sämmtliche in
 Schongau, meisterhaft ausgeführt.
 
 Das Kreuz, ganz aus Eisen gearbeitet, die vergoldeten
-Röhrenflächen aber mit Kupfer platirt, ist 14 Fuß^[^0002]^ hoch und
-in 28 Theile zerlegbar; die Röhren halten 11 Zoll,^[^0003]^ die
-kupferne vergoldete Kugel über 2 Fuß^[^0004]^ im Durchmesser; 24
+Röhrenflächen aber mit Kupfer platirt, ist 14 Fuß<sup>[^0002]</sup> hoch und
+in 28 Theile zerlegbar; die Röhren halten 11 Zoll,<sup>[^0003]</sup> die
+kupferne vergoldete Kugel über 2 Fuß<sup>[^0004]</sup> im Durchmesser; 24
 Quadratfuß des Kreuzes bis herab zum Kugelende sind gut
 im Feuer vergoldet. Das Kreuzgerippe im Innern der Röhren
 besteht aus gut gehämmerten massiven Eisenstangen, welche
@@ -50,9 +50,9 @@ unter sich durch Bänder, Schrauben und Stifte auf das
 Festeste verbunden sind von außen vollenden drei eiserne
 Seitenstützen die Festigkeit und Unbeweglichkeit des Kreuzes
 gegen den Andrang der Winde und Stürme. Die Gesammtlast
-des Kreuzes wiegt über 300&nbsp;Pfund.^[^0005]^ Die Anfertigungskosten
-belaufen sich auf 443&nbsp;fl. 10&nbsp;kr,^[^0006]^ die der Expedition
-nebst Anderem auf 167&nbsp;fl. 26&nbsp;kr;^[^0007]^  zusammen 610&nbsp;fl. 36&nbsp;kr.^[^0008]^
+des Kreuzes wiegt über 300&nbsp;Pfund.<sup>[^0005]</sup> Die Anfertigungskosten
+belaufen sich auf 443&nbsp;fl. 10&nbsp;kr,<sup>[^0006]</sup> die der Expedition
+nebst Anderem auf 167&nbsp;fl. 26&nbsp;kr;<sup>[^0007]</sup>  zusammen 610&nbsp;fl. 36&nbsp;kr.<sup>[^0008]</sup>
 
 Nach vollendeter Anfertigung wurde das Kreuz am 1.&nbsp;August
 auf den Hohenpeissenberg transportiert, um daselbst
@@ -91,7 +91,7 @@ diese Traglast auf den Zugspitz befördern zu wollen. Das
 Kreuz wurde sofort abgebrochen, in seine Stücke zerlegt, diese
 nebst Werkzeug und andern Requisiten gehörig verpackt und
 unter, die Träger vertheilt, deren Zahl sich, obgleich für den
-Mann mindestens 20&nbsp;Pfund^[^0009]^ Traglast bestimmt waren, auf
+Mann mindestens 20&nbsp;Pfund<sup>[^0009]</sup> Traglast bestimmt waren, auf
 19&nbsp;Mann steigerte. Der Montag, der 11.&nbsp;August, sollte der
 Expeditionstag seyn. Mit banger Sehnsucht sah man diesem
 Tage entgegen. Die Witterung am Sonntage zeigte sich sehr
@@ -125,8 +125,8 @@ schönes Wetter mehr zu erwarten seyn? So wurde einige
  dem Zielpunkte des heutigen Tages.
 
  Der Weg in das hintere Rheinthal ist malerisch schön.
- Links und rechts schauen himmelhohe Felswände: der Gaisberg,^[^0012]^
- die Rheinthalerschroffen,^[^0011]^  der hohe Wanner^[^0010]^ u. a. auf
+ Links und rechts schauen himmelhohe Felswände: der Gaisberg,<sup>[^0012]</sup>
+ die Rheinthalerschroffen,<sup>[^0011]</sup>  der hohe Wanner<sup>[^0010]</sup> u. a. auf
  den staunenden Wanderer herab.
 
  Die Angerhütte, nur für  zwei Hirten bestimmt, bot
@@ -137,7 +137,7 @@ schönes Wetter mehr zu erwarten seyn? So wurde einige
  Feuer.  Der Abendtisch wurde allseitig bereitet. Der Hirt
  reichte Milch zu Trank und Speisebereitung, die nahgelegene
  Partnach erquickte mit ihrem frischen Wasser. Der Träger
- Jakob Sporer,^[^0013]^ ein höchst simpler Bursche, machte wie
+ Jakob Sporer,<sup>[^0013]</sup> ein höchst simpler Bursche, machte wie
  immer mit seinen komisch-läppischen Manieren den Gegenstand
  der Unterhaltung. — Geschlafen wurde wenig. Einigen in
  der Hütte war das Bett (aus Fichtennadeln) zu war und
@@ -217,7 +217,7 @@ schönes Wetter mehr zu erwarten seyn? So wurde einige
  Noch war eine sehr steile, von einigen Felsen überragte
  Schneehänge zu passiren. Dieses geschah mit der äußersten
  Vorsicht und man gelangte alsbald glücklich auf den Grat
- des Gebirges.^[^0014]^
+ des Gebirges.<sup>[^0014]</sup>
 
  Grauenhaft und unheimlich ist hier der Blick über die
  fast senkrecht abfallenden Wände; doch passirte man den Grat
@@ -246,7 +246,7 @@ schönes Wetter mehr zu erwarten seyn? So wurde einige
  großem Jubel oben angelangt und der sehr schmale Gipfel
  von Jedem bestiegen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100 .break-before .caption .align-center }
  ![Skizze Nro. 2.](Zugspitzkreuz_12.jpg "Zugspitzkreuz_12.jpg"){#b0012}
 ::::
 
@@ -307,7 +307,7 @@ Alles gut vernietet, — und das Kreuz war fertig. —
 „Wenn es nur auch schon stünde,“ flüsterte man sich
 bange zu, — und der Wunsch war wahrlich kein überflüssiger.
 
-Ungeheure Mühe kostete die Aufstellung;^[^0015]^  gegen 12&nbsp;Mann
+Ungeheure Mühe kostete die Aufstellung;<sup>[^0015]</sup>  gegen 12&nbsp;Mann
 waren damit beschäftiget. Man zog es mit Seilen in die
 Höhe, während rückwärts die Last mit der vom Kreuzcentrum
 auslaufenden Stützstange nachgeschoben wurde und
@@ -333,7 +333,7 @@ mit Eisen verkeilt und mit 20 Pfund Blei eingekittet. Um
 3½&nbsp;Uhr Abends war das ganze Werk vollendet.
 
 Leider war es den Expeditions-Theilnehmern nicht gegönnt,
-vom Zugspitzgipfel^[^0016]^ aus eine ungetrübte Fernsicht zu
+vom Zugspitzgipfel<sup>[^0016]</sup> aus eine ungetrübte Fernsicht zu
 genießen; denn noch ehe sie vollends oben angelangt waren,
 erhoben sich von allen Seiten Nebel und Gewölk und verhüllten
 das unter ihnen liegende Land. Nur hie und da
@@ -351,7 +351,7 @@ gemacht werden konnten, da die anfänglich beabsichtigte
 Ausführung dieses wissenschaftlichen Zweck es mit dem
 Aufgeben der größeren Expedition für diesesmal hinwegfiel.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100 .break-before .caption .align-center}
  ![Skizze Nro. 3.](Zugspitzkreuz_16.jpg "Zugspitzkreuz_16.jpg"){#b0016}
 ::::
 
@@ -534,7 +534,7 @@ Kaar. Auch dieses blieb unversehrt im Schnee stecken.
 
 Also in Gottes Namen! Nun auch du nach,
 Baur, sei es auch — in dein Grab! Ein mächtiger
-Sprung über die Kluft 18—20 Fuß hinab auf den Schnee^[^0017]^
+Sprung über die Kluft 18—20 Fuß hinab auf den Schnee<sup>[^0017]</sup>
 — und der Sprung war gelungen! Der Jäger, der Hund
 und sein Gewehr waren wohlbehalten im Schnee beisammen.
 
@@ -561,16 +561,16 @@ Wie überrascht war derselbe, als sein Blick nichts, als
 überhängende Wände und keinen gangbaren Steig erspähte.
 
 In dieser trostlosen Lage saß er am äußersten Ende des
-Kaars^[^0018]^, seufzend und wünschend, wieder oben zu seyn
+Kaars<sup>[^0018]</sup>, seufzend und wünschend, wieder oben zu seyn
 bei seinen Gefährten; allein dieses war wegen des Sprunges
 rein unmöglich, und er mußte daher, wollte er anders sein
 Leben retten, einen andern Ausweg suchen. —
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60 .break-before .caption .align-center}
  ![Skizze Nro. 4.](Zugspitzkreuz_22.jpg "Zugspitzkreuz_22.jpg"){#b0022}
 ::::
 
-Er durchsuchte nun den ganzen Rand des Schnee-Kaars,^[^0020]^
+Er durchsuchte nun den ganzen Rand des Schnee-Kaars,<sup>[^0020]</sup>
 bis ihm eine sich darbietende Kluft die geeignetste schien,
 hinabzukommen.
 
@@ -604,14 +604,14 @@ Morgen, 5 Uhr früh, von der Angerhütte auf und kehrte
 beim Reinthaler noch einmal zu. Von da aus wendete ein
 Theil der Träger seine Schritte sogleich der Heimath zu, der
 Rest der Expedition aber kehrte nach Partenkirchen zurück,
-das man gegen 1 Uhr Mittags glücklich erreichte.^[^0019]^
+das man gegen 1 Uhr Mittags glücklich erreichte.<sup>[^0019]</sup>
 
 Damit war auch da so manche bange Sorge getilgt und
 mancher Unglücksrabe und grämliche Zweifler zum Schweigen
 gebracht. Freude ob der glücklichen Ausführung der Expedition
 war auf allen Gesichtern zu lesen. —
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100 .break-before .caption .align-center}
  ![Skizze Nro. 5.](Zugspitzkreuz_24.jpg "Zugspitzkreuz_24.jpg"){#b0024}
 ::::
 
@@ -619,7 +619,7 @@ Am 15. August, als am Feste Mariä Hinmelfahrt,
 wurde zum Danke für die glückliche Expedition in Partenkirchen ein Hochamt gehalten,
 dem alle Zugspitzbesteiger der Umgegend beiwohnten.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100 .break-before .caption .align-center}
  ![Skizze Nro. 6.](Zugspitzkreuz_25.jpg "Zugspitzkreuz_25.jpg"){#b0025}
 ::::
 
@@ -628,11 +628,11 @@ wie dem Herrn Curat von Leermos, als den der Zugspitze nächst
 gelegenen: Nachbaren in Tyrol, wurden zur Erflehung des göttlichen
 Segens für dieses Unternehmen schon vor der Expeditionszeit
 Stipendien zur Lesung einer heiligen Messe übersendet und
-dieselben ersucht, auch ihre Parochianen^[^0022]^ von der
+dieselben ersucht, auch ihre Parochianen<sup>[^0022]</sup> von der
 Meinung derselben so wie von dem Zweck der Kreuz-Errichtung
 auf dem Zugspitz überhaupt zu verständigen.
 
-Sicherlich aber dürfte noch keine der früheren Zugspitz-Expeditionen^[^0021]^
+Sicherlich aber dürfte noch keine der früheren Zugspitz-Expeditionen<sup>[^0021]</sup>
 eine so großzählige 29 Mann, gewesen und keine noch
 solch einen schwierigen, erhabenen, einzig in den bayerischen Annalen
 dastehenden Zweck verfolgt haben, als die Expedition vom 11. August 1851.
@@ -655,7 +655,7 @@ Möge es als ein Friedensstern noch den spätesten
 Geschlechtern herableuchten durch die Stürme der Zeit und
 sie wie uns zu jener brüderlichen Liebe, Eintracht und Treue
 ermuntern, die allein die Völker stark und glücklich macht:
-Fortes in Fide!^[^0023]^
+Fortes in Fide!<sup>[^0023]</sup>
 
 Ja möge es uns Allen eine stete Aufforderung seyn, in
 dem heiligen Glauben, der schon in der grauesten Ahnenzeit
@@ -670,7 +670,7 @@ zu fallen
 :::
 
 :::: { .fs-xl  }
-|            **Das Zugspitzkreuz**^[^0024]^
+|            **Das Zugspitzkreuz**<sup>[^0024]</sup>
 ::::
 
 ****
@@ -851,7 +851,7 @@ folgenden Notizen des k. Forstgehilfen Max Thoma nicht
 uninteressant seyn.
 
 Die Höhe der Zugspitze beträgt nach früheren Messungen
-10,115 bayer. oder 9,088 par. Fuß.^[^0001]^ (Nach Lamont 9069 Par. oder 10,087 bayer. Fuß.)^[^0025]^
+10,115 bayer. oder 9,088 par. Fuß.<sup>[^0001]</sup> (Nach Lamont 9069 Par. oder 10,087 bayer. Fuß.)<sup>[^0025]</sup>
 
 Das Gestein ist an der Oberfläche meist verwittert; darunter
 befindet sich die feste Felsmassa von meist schiefer oder
@@ -874,29 +874,29 @@ Bis dahin, mitunter selbst auf den einzelnen Steininseln in
 demselben, fanden sich noch folgende Alpenpflanzen:
 :::
 
-|               Ranunculus alpestris,^[^0026]^
-|                     &nbsp;"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;montanus,^[^0027]^
-|               Silene acaulis,^[^0028]^
-|               Saxifraga muscoide,^[^0029]^
-|                       "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;caesia,^[^0030]^
-|                       "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;controversa,^[^0031]^
-|               Soldanella alpina,^[^0032]^
-|               Androsace obtusifolia,^[^0033]^
-|               Draba Aizoides,^[^0034]^
-|               Dryas octopetale,^[^0035]^
-|               Salix repens,^[^0036]^
-|               Myosotis alpestris.^[^0037]^
+|               Ranunculus alpestris,<sup>[^0026]</sup>
+|                     &nbsp;"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;montanus,<sup>[^0027]</sup>
+|               Silene acaulis,<sup>[^0028]</sup>
+|               Saxifraga muscoide,<sup>[^0029]</sup>
+|                       "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;caesia,<sup>[^0030]</sup>
+|                       "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;controversa,<sup>[^0031]</sup>
+|               Soldanella alpina,<sup>[^0032]</sup>
+|               Androsace obtusifolia,<sup>[^0033]</sup>
+|               Draba Aizoides,<sup>[^0034]</sup>
+|               Dryas octopetale,<sup>[^0035]</sup>
+|               Salix repens,<sup>[^0036]</sup>
+|               Myosotis alpestris.<sup>[^0037]</sup>
 <br  />
 Oberhalb des Schneeferners kamen nur mehr vor:
 
 |               Hulschinfia alpina und
-|               Petrocallis pyrenaica.^[^0038]^
+|               Petrocallis pyrenaica.<sup>[^0038]</sup>
 <br  />
 Am höchsten Grate fanden sich noch:
 
-|               Parmelia elegans,^[^0039]^
+|               Parmelia elegans,<sup>[^0039]</sup>
 |               eine Gallertflechte
-|               und 2 — 3 Steinflechten.
+|               und 2— 3 Steinflechten.
 
 ### Namensverzeichniß
 ::: justified
@@ -907,44 +907,42 @@ Am höchsten Grate fanden sich noch:
 **1. Träger.**
 ::::
 
-| Berghofer Joseph, Hirt,&nbsp;von *Partenkirchen*
-| Ehrhardt Johann, Schweizerhanns,&nbsp;von *Partenkirchen*
-| Grasegger Joseph, Huislseppl,&nbsp;von *Partenkirchen*
-| Grasegger Franz, Bartljackl,&nbsp;von *Partenkirchen*
-| Jocher Nikolaus, Huschenklas,&nbsp;von *Partenkirchen*
-| Klais  Peter, Klaisl,&nbsp;von *Partenkirchen*
-| Liedl Joseph, Wenzlseppl,&nbsp;von *Partenkirchen*
-| Neuner Georg, Braunjörgl,&nbsp;von *Partenkirchen*
-| Reindl Martin, Bayerle,&nbsp;von *Partenkirchen*
-| Grasegger Nikolaus, Hannesl,&nbsp;von *Partenkirchen*
-| Bader Martin, Hielslpauli,&nbsp;von *Partenkirchen*
-| Bartl Joseph, Hanneslseppl,&nbsp;*von Partenkirchen*
-| Grasegger Jakob,&nbsp;&nbsp;&nbsp;*Brüder*, *Graseck*
-|         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peter,&nbsp;&nbsp;&nbsp;&nbsp;*Brüder*, *Graseck*
-|         "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Martin,&nbsp;*Brüder*, *Graseck*
-| Grasegger Franz, Jocham,
-| Wackerl Anton, Maxltoni von *Eck*
-| Pfeifer Peter, Reinthaler-Bauer,
-| Sporer Jakob&nbsp;von *Dettenhofen.*
+* *Berghofer* Joseph, Hirt,&nbsp;von *Partenkirchen*
+* *Ehrhardt* Johann, Schweizerhanns,&nbsp;von *Partenkirchen*
+* *Grasegger* Joseph, Huislseppl,&nbsp;von *Partenkirchen*
+* *Grasegger* Franz, Bartljackl,&nbsp;von *Partenkirchen*
+* *Jocher* Nikolaus, Huschenklas,&nbsp;von *Partenkirchen*
+* *Klais*  Peter, Klaisl,&nbsp;von *Partenkirchen*
+* *Liedl* Joseph, Wenzlseppl,&nbsp;von *Partenkirchen*
+* *Neuner* Georg, Braunjörgl,&nbsp;von *Partenkirchen*
+* *Reindl* Martin, Bayerle,&nbsp;von *Partenkirchen*
+* *Grasegger* Nikolaus, Hannesl,&nbsp;von *Partenkirchen*
+* *Bader* Martin, Hielslpauli,&nbsp;von *Hammersbach*
+* *Bartl* Joseph, Hanneslseppl,&nbsp;von *Hammersbach*
+* *Grasegger* Jakob,&nbsp;&nbsp;*Brüder*, *Graseck*<br />
+* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peter,&nbsp;&nbsp;*Brüder*, *Graseck*<br />
+* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Martin,&nbsp;*Brüder*, *Graseck*<br />
+
+* *Grasegger* Franz, Jocham, *Graseck*
+* *Wackerl* Anton, Maxltoni von *Eck*
+* *Pfeifer* Peter, *Reinthaler*-Bauer,
+* *Sporer* Jakob&nbsp;von *Dettenhofen.*
 
 :::: { .align-center }
 **2. Begleiter.**
 ::::
 
-| Als Arrangeurs:
-| der k. Forstwart Karl Kiendl von *Graseck*
-| und Kiesel Ludwig, Schlosserssohn von *Schongau* dann
-| Baur Michael, k. Jagdgehilfe in *Farchant*
-| Hartl Joseph, Handlungscommis von *Schongau,*
-| Plöderl Johann, Cand. jur. von *Partenkirchen,*
-| Pröls Joseph, k. Forstgehilfe, von  *Partenkirchen*
-| Rauchenberger Karl, k. Forstgehilfe von *Grünwald,*
-| Rauchenberger J., k. Jagdgehilfe von *Farchant,*
-| Schuster Xaver, k. Forstamtsaktuar von *Partenkirchen,*
-| Thoma Max, k. Forstgehilfe von *Hohenschwangau*, als
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zeichner der Skizzen Nr. 2 und 3;
-| Morl, Schnauzl, Hunde aus dem Reinthale
-| Di&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;und Farchant
+* Als Arrangeurs: der k. Forstwart Karl *Kiendl* von *Graseck*
+ und *Kiesel* Ludwig, Schlosserssohn von *Schongau* dann
+* *Baur* Michael, k. Jagdgehilfe in *Farchant*
+* *Hartl* Joseph, Handlungscommis von *Schongau,*
+* *Plöderl* Johann, Cand. jur. von *Partenkirchen,*
+* *Pröls* Joseph, k. Forstgehilfe, von  *Partenkirchen*
+* *Rauchenberger* Karl, k. Forstgehilfe von *Grünwald,*
+* *Rauchenberger* J., k. Jagdgehilfe von *Farchant,*
+* *Schuster Xaver*, k. Forstamtsaktuar von *Partenkirchen,*
+* *Thoma* Max, k. Forstgehilfe von *Hohenschwangau*, als  Zeichner der Skizzen Nr. 2 und 3;
+* *Morl*, *Schnauzl*, *Di*, Hunde aus dem Reinthale  und Farchant
 
 :::: { .align-center .break-before }
 **Bedeutung der Skizzen:**
